@@ -30,9 +30,10 @@ function App() {
       <ul>
         <li>React no es un framework, es más una librería de JavaScript, aunque su complejidad ha crecido al punto que algunas personas le llaman framework</li>
         <li>Para entender React y manejarme bien en él, es recomendable que domine algo de JavaScript (digamos) clásico, que es algo que estudiaré</li>
-        <li>React funciona en el lado del cliente, no del servidor, pero para poder mostrar esta pagina (estática por ahora) se necesitó siempre de un servidor que corre en XXX</li>
+        <li>React funciona en el lado del cliente, no del servidor, pero para poder mostrar esta pagina (estática por ahora) se necesitó siempre de un servidor 
+          que corre en GitHub Pages, aunque como es estático no todos lo consideran un servidor</li>
         <li>Para la construcción de este micro-proyecto en React he usado Vite, antes se usaba CRA pero dicen que era algo problemático</li>
-        <li>Mi editor fue VS Code, luego de probado localmente lo subí a GitHub, y con su herramienta GitHub Pages YYYY</li>
+        <li>Mi editor fue VS Code, luego de probado localmente lo subí a GitHub, y con su herramienta GitHub Pages que es un servicio de Hosting estático</li>
       </ul>
       <h2>Vite + React</h2>
       <div className="card">
