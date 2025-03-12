@@ -1,7 +1,7 @@
 {
-  "name": "hola-mundo-01-react-app",
   "homepage": "https://henryzr.github.io/hola-mundo-react/",
-  "private": true,
+  "name": "hola-mundo-01-react-app",
+    "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
